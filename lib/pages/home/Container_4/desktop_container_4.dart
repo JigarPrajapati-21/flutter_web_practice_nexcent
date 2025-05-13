@@ -12,7 +12,7 @@ class DesktopContainer4 extends StatelessWidget {
       width: double.infinity,
       color: Colors.white,
       // padding: EdgeInsets.symmetric(horizontal: width! / 20, vertical: 60),
-      padding: EdgeInsets.symmetric(horizontal: width! /40, vertical: 60),
+      padding: EdgeInsets.symmetric(horizontal: width! /20, vertical: 60),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
