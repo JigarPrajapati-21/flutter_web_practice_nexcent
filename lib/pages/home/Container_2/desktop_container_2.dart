@@ -292,7 +292,7 @@ class DesktopContainer2 extends StatelessWidget {
 
                       Wrap(
                         spacing: 10,
-                        runSpacing: 20,
+                        runSpacing: 10,
                         alignment: WrapAlignment.center,
                         children: [
                           Card(
