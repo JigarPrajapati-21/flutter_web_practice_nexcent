@@ -42,9 +42,9 @@ class MobileContainer4 extends StatelessWidget {
             
 
                 SizedBox(height: 50),
-            
+
                 Wrap(
-                  spacing: 30,
+                  spacing: 10,
                   runSpacing: 20,
                   alignment: WrapAlignment.center,
                   children: [
@@ -53,7 +53,7 @@ class MobileContainer4 extends StatelessWidget {
                         // Background image
                         Container(
                           height: 286,
-                          width: 368,
+                          width: 318,
                           // width: double.infinity,
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(10),
@@ -63,8 +63,8 @@ class MobileContainer4 extends StatelessWidget {
                             ),
                           ),
                         ),
-            
-            
+
+
                         // Card positioned to start from the middle of the image
                         Positioned(
                           bottom: 0,
@@ -83,7 +83,7 @@ class MobileContainer4 extends StatelessWidget {
                                   CrossAxisAlignment.center,
                                   children: [
                                     SizedBox(
-                                      width: 285,
+                                      // width: 285,
                                       child: Center(
                                         child: Text(
                                           "Creating Streamlined Safeguarding Processes with OneRen",
@@ -96,9 +96,9 @@ class MobileContainer4 extends StatelessWidget {
                                         ),
                                       ),
                                     ),
-            
 
-            
+
+
                                     TextButton(
                                       onPressed: () {},
                                       style: TextButton.styleFrom(
@@ -122,13 +122,13 @@ class MobileContainer4 extends StatelessWidget {
                         ),
                       ],
                     ),
-            
+
                     Stack(
                       children: [
                         // Background image
                         Container(
                           height: 286,
-                          width: 368,
+                          width: 318,
                           // width: double.infinity,
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(10),
@@ -138,7 +138,7 @@ class MobileContainer4 extends StatelessWidget {
                             ),
                           ),
                         ),
-            
+
                         // Card positioned to start from the middle of the image
                         Positioned(
                           bottom: 0,
@@ -157,7 +157,7 @@ class MobileContainer4 extends StatelessWidget {
                                   CrossAxisAlignment.center,
                                   children: [
                                     SizedBox(
-                                      width: 285,
+                                      // width: 285,
                                       child: Center(
                                         child: Text(
                                           "What are your safeguarding responsibilities and how can you manage them?",
@@ -194,13 +194,13 @@ class MobileContainer4 extends StatelessWidget {
                         ),
                       ],
                     ),
-            
+
                     Stack(
                       children: [
                         // Background image
                         Container(
                           height: 286,
-                          width: 368,
+                          width: 318,
                           // width: double.infinity,
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(10),
@@ -210,7 +210,7 @@ class MobileContainer4 extends StatelessWidget {
                             ),
                           ),
                         ),
-            
+
                         // Card positioned to start from the middle of the image
                         Positioned(
                           bottom: 0,
@@ -229,7 +229,7 @@ class MobileContainer4 extends StatelessWidget {
                                   CrossAxisAlignment.center,
                                   children: [
                                     SizedBox(
-                                      width: 285,
+                                      // width: 285,
                                       child: Center(
                                         child: Text(
                                           "Revamping the Membership Model with Triathlon Australia",
@@ -242,7 +242,7 @@ class MobileContainer4 extends StatelessWidget {
                                         ),
                                       ),
                                     ),
-            
+
 
                                     TextButton(
                                       onPressed: () {},
@@ -267,7 +267,7 @@ class MobileContainer4 extends StatelessWidget {
                         ),
                       ],
                     ),
-            
+
                   ],
                 ),
             
