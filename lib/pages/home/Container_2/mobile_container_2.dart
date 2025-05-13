@@ -10,7 +10,7 @@ class MobileContainer2 extends StatelessWidget {
       color: Colors.white,
       width: double.infinity,
       // padding: EdgeInsets.all(10),
-      padding: EdgeInsets.symmetric(horizontal: width! / 5, vertical: 20),
+      padding: EdgeInsets.symmetric(horizontal: width! / 20, vertical: 20),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
