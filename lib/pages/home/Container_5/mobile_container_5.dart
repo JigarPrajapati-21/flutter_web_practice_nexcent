@@ -312,20 +312,19 @@ class MobileContainer5 extends StatelessWidget {
                           ],
                         ),
 
-
                         SizedBox(height: 20,),
-                        Row(
-                          mainAxisAlignment: MainAxisAlignment.start,
-                          children: [
-                            Text(
-                              "This Flutter Web App developed by Jigar Prajapati, \nA responsive landing page built with Flutter Web,\n based on a Figma UI design available on the community platform. \nThis project is focused on practicing modern, \nresponsive web design using Flutter for both desktop and mobile",
-                              style: TextStyle(
-                                color: Colors.white,
-                                fontSize: 12,
-                              ),
-                            ),
-                          ],
+                        Text(
+                          "This Flutter Web App developed by Jigar Prajapati, A responsive landing page built with Flutter Web, based on a Figma UI design available on the community platform. This project is focused on practicing modern, responsive web design using Flutter for both desktop and mobile",
+                          style: TextStyle(
+                            fontSize: 16,
+                            color: Colors.grey,
+                            height: 1.5,
+                          ),
                         ),
+
+
+
+
                       ],
                     ),
                   ),

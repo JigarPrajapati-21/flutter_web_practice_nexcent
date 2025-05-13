@@ -39,13 +39,3 @@ const String si3="assets/images/Social Icons3.png";
 const String si4="assets/images/Social Icons4.png";
 
 
-
-
-// const String google="assets/images/google.png";
-// const String fb="assets/images/fb.png";
-// const String cocacola="assets/images/cocacola.png";
-// const String linkedin="assets/images/linkedin.png";
-// const String samsung="assets/images/samsung.png";
-// const String dashboard="assets/images/dashboard.png";
-// const String vector1="assets/images/Vector1.png";
-// const String vector2="assets/images/Vector2.png";
