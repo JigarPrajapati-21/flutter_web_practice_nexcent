@@ -67,7 +67,7 @@ class DesktopContainer4 extends StatelessWidget {
                       SizedBox(height: 50),
 
                       Wrap(
-                        spacing: 30,
+                        spacing: 10,
                         runSpacing: 20,
                         alignment: WrapAlignment.center,
                         children: [
@@ -76,7 +76,7 @@ class DesktopContainer4 extends StatelessWidget {
                               // Background image
                               Container(
                                 height: 286,
-                                width: 368,
+                                width: 318,
                                 // width: double.infinity,
                                 decoration: BoxDecoration(
                                   borderRadius: BorderRadius.circular(10),
@@ -106,7 +106,7 @@ class DesktopContainer4 extends StatelessWidget {
                                         CrossAxisAlignment.center,
                                         children: [
                                           SizedBox(
-                                            width: 285,
+                                            // width: 285,
                                             child: Center(
                                               child: Text(
                                                 "Creating Streamlined Safeguarding Processes with OneRen",
@@ -151,7 +151,7 @@ class DesktopContainer4 extends StatelessWidget {
                               // Background image
                               Container(
                                 height: 286,
-                                width: 368,
+                                width: 318,
                                 // width: double.infinity,
                                 decoration: BoxDecoration(
                                   borderRadius: BorderRadius.circular(10),
@@ -180,7 +180,7 @@ class DesktopContainer4 extends StatelessWidget {
                                         CrossAxisAlignment.center,
                                         children: [
                                           SizedBox(
-                                            width: 285,
+                                            // width: 285,
                                             child: Center(
                                               child: Text(
                                                 "What are your safeguarding responsibilities and how can you manage them?",
@@ -223,7 +223,7 @@ class DesktopContainer4 extends StatelessWidget {
                               // Background image
                               Container(
                                 height: 286,
-                                width: 368,
+                                width: 318,
                                 // width: double.infinity,
                                 decoration: BoxDecoration(
                                   borderRadius: BorderRadius.circular(10),
@@ -252,7 +252,7 @@ class DesktopContainer4 extends StatelessWidget {
                                         CrossAxisAlignment.center,
                                         children: [
                                           SizedBox(
-                                            width: 285,
+                                            // width: 285,
                                             child: Center(
                                               child: Text(
                                                 "Revamping the Membership Model with Triathlon Australia",

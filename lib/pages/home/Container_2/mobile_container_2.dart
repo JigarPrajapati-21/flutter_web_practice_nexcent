@@ -300,7 +300,7 @@ class MobileContainer2 extends StatelessWidget {
                     SizedBox(height: 30,),
 
                     Wrap(
-                      spacing: 100,
+                      spacing: 10,
                       runSpacing: 20,
                       alignment: WrapAlignment.center,
                       children: [

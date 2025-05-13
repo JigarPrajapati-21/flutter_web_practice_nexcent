@@ -284,7 +284,7 @@ class DesktopContainer2 extends StatelessWidget {
                       SizedBox(height: 50,),
 
                       Wrap(
-                        spacing: 100,
+                        spacing: 10,
                         runSpacing: 20,
                         alignment: WrapAlignment.center,
                         children: [
